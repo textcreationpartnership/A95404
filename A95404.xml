@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The twelve wonders of England, being a strange and wonderful relation of the death of Mr. Parrey, an inn-keeper, living at the sign of the Bell at Temple-bar; and the manner how twelve serpents vvere voided from him a little before his death on Thursday last, some having heads like toads and horses, and others like neuts and dogs, to the great admiration of all that shall read the ensuing subject. Together vvith a narrative of his life and death, his memento and character to all Christians; and other memorable examples of most strange and wonderful prodigies.</title>
+            <author>Reyner, Edward, 1600-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95404</idno>
+            <idno type="STC">Wing T3407</idno>
+            <idno type="STC">Thomason E851_11</idno>
+            <idno type="STC">ESTC R207422</idno>
+            <idno type="EEBO-CITATION">99866472</idno>
+            <idno type="PROQUEST">99866472</idno>
+            <idno type="VID">118747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118747)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E851[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The twelve wonders of England, being a strange and wonderful relation of the death of Mr. Parrey, an inn-keeper, living at the sign of the Bell at Temple-bar; and the manner how twelve serpents vvere voided from him a little before his death on Thursday last, some having heads like toads and horses, and others like neuts and dogs, to the great admiration of all that shall read the ensuing subject. Together vvith a narrative of his life and death, his memento and character to all Christians; and other memorable examples of most strange and wonderful prodigies.</title>
+                  <author>Reyner, Edward, 1600-1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Excretion --  Folklore --  Early works to 1800.</term>
+               <term>Serpents --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118747:1" rendition="simple:additions"/>
+            <p>The twelve WONDERS OF ENGLAND, <hi>BEING</hi> A moſt ſtrange and wonderful Relation of the Death of Mr. Parrey, an Inn-keeper, living at the ſign of the Bell at Temple-bar;</p>
+            <p>And the manner how twelve Serpents vvere voided from him a little before his Death on Thurſ<g ref="char:EOLhyphen"/>day laſt, ſome having Heads like Toads and Horſe, and others like Neuts and Dogs, to the great admiration of all that ſhall read the enſuing ſubject.</p>
+            <p>Together vvith a Narrative of his Life and Death, his Memento and Character to all Chriſti<g ref="char:EOLhyphen"/>ans; and other memorable Examples o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt ſtrange and wonderful Prodigies.</p>
+            <p>London, Printed for G. HORTON, 1655.</p>
+            <pb facs="tcp:118747:2"/>
+            <figure>
+               <figDesc>crude woodcut of a lion</figDesc>
+               <p>Behould. The. Wondars of. This. Age</p>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:118747:2"/>
+            <head>The twelve WONDERS Of this AGE</head>
+            <p>Being a moſt ſtrange and true Relation of the voiding of 12 ugly and monſtrous Serpents by Mr. Parey, Maſter of the Bell Inn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncer Temple bar, a little before his death, with a Narrative of his Life and Converſation.</p>
+            <p>
+               <seg rend="decorInit">B</seg>Efore the deſtruction of Sodome and Gomorra, ſundry ſtrange Prodigies, and Comments were ſeen, as if the hea<g ref="char:EOLhyphen"/>vens,
+<pb n="4" facs="tcp:118747:3"/>privy to impendent effects, had by their myſticall character revealed a prodigy was in breeding; for in the year that Nero was adopted by Claudius, there appeared three Suns. And in the time of a great Peſtilence in Ger<g ref="char:EOLhyphen"/>many, Serpents bred in the dead bodies of men and wo<g ref="char:EOLhyphen"/>men, ſo that they could hardly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eburied: But in theſe our dayes a ſtrange example of a wonderful Prodigie hath fallen out neer Temple-bar, where one Mr. Parrey, Maſter of the Bell-Inn in Bell yard, neer Temple-bar, having for ſome certain time been extreamly troubled with a pain in the belly, and a great noiſe or hiffing, as he conceived, would oftentimes deſire his friends &amp; neigh<g ref="char:EOLhyphen"/>bors to hearken and give ear, whether or no they could hear any thing; they anſwered, no: Then he deſired that Mr Cook the Phyſitian might be ſent for, which was accordingly done and after ſome converſe together, he adviſed Mr. Parrey to betake himſelf to a courſe of Phyſick, which was obſerved for ſome few dayes; but about the 30. of July he began to be extream illy; at which time he went to ſtool, where he voided twelve Serpents, one having a head like a horſe, another headed like a Toad, a third like a Greyhound, a fourth like a Talbot: all which had ſeveral diſtinct heads, though ex<g ref="char:EOLhyphen"/>treamly deformed, but died immediatly after they came from him: ſome were at the leaſt a handful long; others about half a handful, and ſome ſhorter: They were
+<pb n="5" facs="tcp:118747:3"/>ſomewhat of a dark colour when they were voided; they had no great ſcent, but a kind of an earthly ſmell; and were preſerved for ſome time with the ſpirits of Wine, divers Gentlemen of great worth coming to ſee them: Nay more, it is credibly reported, that they were often<g ref="char:EOLhyphen"/>times heard to croak like Frogs in his belly, and to make ſuch a hideous noiſe, that after they crawled from him, the ſight thereof ſtruck great admiration to the Behold<g ref="char:EOLhyphen"/>ers.</p>
+            <p>Indeed, it is a thing ſo ſtrange and wonderful, that it ſurpaſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſundry Prodigies in former Ages, and cannot be parallel'd in theſe lat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Times; and the rather, by reaſon he was a Gentleman of ſingular good life and con<g ref="char:EOLhyphen"/>verſation, and of good repute and worth: He made a very godly, p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, and Chriſtian end, and departed this life on Thurſday the ſecond of Auguſt, leaving a gallant Memento a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Character to all Chriſtians.</p>
+            <p>But again, I am info<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med by a Ge tleman and friend of Mr. Parreys, that the Cauſe and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffects of what is be<g ref="char:EOLhyphen"/>fore ſpecified, were onely co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led blood, ingendered in a bladder, and occaſioned by a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all from his horſe; to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s I can ſay little; but th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is truth and proceeded from the ſame tongue, that Mrs Parrey kept theſe things from Saturday till Munday and then Mr. Cook carryed them home to his own houſe, where many Gentlemen and Ladie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of great worth reſorted, to behold ſo ſtrange an Object.</p>
+            <pb n="6" facs="tcp:118747:4"/>
+            <p>And to inſtance ſomewhat further of the ſtrange Examples of wonderful prodigies, give me leave to inſiſt ſomewhat further, and preſent you with a moſt remarkable and memorable paſſage, which hapned before the laſt deſtruction of Jeruſalem (which calamity befel the Jewes, for crucifying the Lord of Life, and contemn<g ref="char:EOLhyphen"/>ing his Goſpel) a Comet, in the likeneſs of a fiery ſword, hung over the City for a year to<g ref="char:EOLhyphen"/>gether. Alſo, at the Feaſt of the Paſsover a great light appeared about the Altar at midnight, which continued half an hour. Alſo a Cow that was led to be ſacrificed at the Altar brought ſorth a Lamb; and the inward Gate of the Temple which was made of maſſie braſs, and u<g ref="char:EOLhyphen"/>ſed to have twenty men to ſhut it, being faſten<g ref="char:EOLhyphen"/>ed with Locks and bars of Iron, at the fifth hour of the night opened of its own accord. Alſo a little before Sun-ſet were ſeen in the ayr iron Chariots, and an army in battel-array as it were begirting the City.</p>
+            <pb n="7" facs="tcp:118747:4"/>
+            <p>At the Feaſt of Pentecoſt the Prieſt going into the Temple, felt the place to move, &amp; trem<g ref="char:EOLhyphen"/>ble, and a voyce was heard ſaying, Let us go hence to Pella. Alſo one Jeſus the ſon of Ana<g ref="char:EOLhyphen"/>zaus, 80 years before the war began, went up and down continually crying; A voice from the Eaſt, a voyce againſt Jeruſalem, and the Temple: a voyce againſt new married perſons; a voyce againſt this people. Nay more, before the terrible Wars between the Brittains, and Romans in Neros time, the ſeas between Brit<g ref="char:EOLhyphen"/>tain, and France, at the full tide did overflow of a bloody colour, and at low water the prints of mens bodies were ſeen upon the bare ſand at the mouth of the Thames.</p>
+            <pb n="8" facs="tcp:118747:5"/>
+            <p>This is a thing ſo obſervable, that the like hath not been heard of theſe many hundreds years, and ſo remar<g ref="char:EOLhyphen"/>kable, that the Colledge of Phyſitians had an earneſt de<g ref="char:EOLhyphen"/>ſire to have had him opened, and then to have embalm<g ref="char:EOLhyphen"/>ed his Corps; but his wife would not condeſcend there<g ref="char:EOLhyphen"/>unto upon no tearms, although great ſatisfaction mighty have occur'd thereupon: for indeed the thing being ſo remarkable, it would have left ſuch a Memento to fu<g ref="char:EOLhyphen"/>ture Poſterity, that the moſt ancient Records cannot pa<g ref="char:EOLhyphen"/>rallel it. Here we might treat a little by way of Com<g ref="char:EOLhyphen"/>ment, but we ſhall decline the way, as falſe Aſtronomy, being not yet in utter darkneſs, though the Sun be ſet; for the ſtar beaming-influene proves all thoſe Rules ex<g ref="char:EOLhyphen"/>centrick, and Apocryphal.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
